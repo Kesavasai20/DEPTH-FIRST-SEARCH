@@ -144,6 +144,6 @@ print(traversedpath)
 
 <img width="638" height="695" alt="Screenshot 2025-09-22 154334" src="https://github.com/user-attachments/assets/a8206be8-1744-438f-98a5-3d9e5b6c7940" />
 
-<h3>Result:</h3>
-<hr>
-<p>Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
+## Result:
+
+### Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.
